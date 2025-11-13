@@ -1,0 +1,29 @@
+{
+  "name": "shorts-preset",
+  "markers": [
+    {
+      "sectionName": "HOOK",
+      "startSec": 0,
+      "endSec": 10,
+      "durationSec": 10
+    },
+    {
+      "sectionName": "SECTION1",
+      "startSec": 10,
+      "endSec": 21,
+      "durationSec": 11
+    },
+    {
+      "sectionName": "SECTION2",
+      "startSec": 21,
+      "endSec": 31,
+      "durationSec": 10
+    },
+    {
+      "sectionName": "END",
+      "startSec": 31,
+      "endSec": 37,
+      "durationSec": 6
+    }
+  ]
+}
